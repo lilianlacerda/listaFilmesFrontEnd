@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/assets/style/styleCadastro.css">
+    <title>Cadastrar</title>
+</head>
+<body>
+    <header><h1>Cadastre um filme!</h1></header>
+    <div class="cadastro" id="cadastro">
+        <form action="">
+            <h4>Nome do Filme</h4>
+            <input type="text" class="nome" name="nome" placeholder="Digite aqui">
+            <h4>Onde Asssistir</h4>
+            <input type="text" class="streaming" name="streaming" placeholder="Digite aqui">
+            <h4>Sinopse</h4>
+            <textarea class="sinopse" id="sinopse" name="sinopse" maxlength="500" placeholder="Digite aqui"></textarea>
+            <p id="char-count">0/500</p> <!-- Contador de caracteres -->
+            <button>Cadastrar</button>
+            <button onclick="inicio()" class="inicio">ínicio</button>
+        </form>
+    </div>
+
+    <footer>
+        <!-- Rodapé da página com informações adicionais -->
+
+        <p>2024 - Funcionalidades que aprendi. Todos os direitos reservados</p>
+        <!-- Texto informando sobre direitos reservados e o ano -->
+
+        <p>Entre em contato pelo email: lilianraiany@gmail.com</p>
+        <!-- Informação de contato -->
+    </footer>
+
+    <script src="/assets/script/cadastrar.js" defer></script>
+</body>
+</html>
