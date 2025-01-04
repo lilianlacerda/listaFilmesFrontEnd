@@ -25,6 +25,12 @@ Funcionalidade adicional: Incluí uma array em JavaScript chamada `dados` para e
 - Melhorar a responsividade do site;
 - Tornar o site mais semântico. 
 
+## Veja o projeto em ação :movie_camera:
+Gostaria de ver esse projeto funcionando? 
+
+[Acesse minha postagem no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7271577181678395392/)
+
+
 <br>
 
 >Estou empenhada em continuar melhorando  minha lógica, meu código e expandir meus conhecimentos, buscando sempre evoluir como desenvolvedora.
@@ -32,3 +38,4 @@ Funcionalidade adicional: Incluí uma array em JavaScript chamada `dados` para e
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+
